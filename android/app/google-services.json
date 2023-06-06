@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "615277560701",
+    "project_id": "pashapp-89635",
+    "storage_bucket": "pashapp-89635.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615277560701:android:74d76fdc356eb62825c214",
+        "android_client_info": {
+          "package_name": "com.example.pash_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615277560701-lkf8qqv80or6h2e81r1knmft1olvcods.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI-cJZksrTisp5cA1D8xYjtDj4pR4Bv8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615277560701-lkf8qqv80or6h2e81r1knmft1olvcods.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
