@@ -8,6 +8,7 @@ I have added the screenshots in the images folder. Thanks
 
 # Whatsapp-clone
 
+I am about to add the create account page that allows one to craete an account with phone number
 ![Screenshot from 2023-06-06 13-25-53](https://github.com/PatrickOjiambo/Whatsapp-clone/assets/105768730/0316f57d-cafe-4a5f-97e4-90650e91d579)
 ![Screenshot from 2023-06-06 13-47-27](https://github.com/PatrickOjiambo/Whatsapp-clone/assets/105768730/3713f238-add7-4cca-b9da-2fe44bee1eee)
 ![Screenshot from 2023-06-06 13-47-41](https://github.com/PatrickOjiambo/Whatsapp-clone/assets/105768730/1a4a28bd-b727-4b34-97c1-766b27b342f8)
